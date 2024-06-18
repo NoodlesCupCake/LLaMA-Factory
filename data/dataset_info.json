@@ -12,7 +12,7 @@
     "file_name": "train-instruct-input-output-dataset.json"
   },
   "10-chunks-per-context-profession-accontants-standard": {
-    "file_name": "train-10chunks-per-context-instruct-input-output-dataset.json"
+    "file_name": "/content/drive/MyDrive/LLaMA-Factory Dataset/train-10chunks-per-context-instruct-input-output-dataset.json"
   },
   "glaive_toolcall_en_demo": {
     "file_name": "glaive_toolcall_en_demo.json",
